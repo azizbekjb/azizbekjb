@@ -1,4 +1,4 @@
 -  Hi, I’m @azizbekjb
 -  I’m interested in programming
 -  I’m currently learning C++ and Python programming languages
--  I want to learn Data Science and Data Structures
+-  I'm learning Data Science and Streamlit now
