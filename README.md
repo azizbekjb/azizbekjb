@@ -1,4 +1,3 @@
 -  Hi, I’m @azizbekjb
--  I’m interested in programming
--  I’m currently learning C++ and Python programming languages
--  I'm learning Data Science and Streamlit now
+-  I'm learning Data Science and Streamlit now. I want to create AI models
+-  
