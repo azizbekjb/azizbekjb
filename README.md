@@ -9,5 +9,6 @@ Fikr yoki mulohaza, hamkorlik qilish va ilova kamchiliklari haqida xabar berish 
 - _Telegram_ orqali: https://t.me/azizbekJabborov006. 
 - _GitHub_ orqali: https://github.com/azizbekjb. 
 - _Linkedin_ orqali: https://www.linkedin.com/in/azizbek-jabborov.
+
   
--_Kelajakdagi rejalari_ : Sun'iy intelekt(AI) sohasida kuchli bilimlarga ega bo'lish va hayotdagi real muammolarga yechim berish
+- _Kelajakdagi rejalari_ : Sun'iy intelekt(AI) sohasida kuchli bilimlarga ega bo'lish va hayotdagi real muammolarga yechim berish
