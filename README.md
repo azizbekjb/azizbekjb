@@ -1,12 +1,12 @@
 ***O'zbekcha***
 
-**O'zim haqimda qisqacha:**
+**O'zim haqimda qisqacha**
 - _Ta'lim dargohim_ : Sharof Rashidov nomidagi Samarqand davlat universiteti, 
 Amaliy matematika yo'nalish, 3-bosqich talabasi.
 - _Qiziqishlarim_ : Data science yo'nalishini o'rganmoqdaman hamda Streamlit frameworki orqali o'rgangan bilimlari asosida yangi loyihalar yaratmoqdaman. Fikr, mulohaza va hamkorlik qilish uchun bog'lanish mumkin.
 
 
-**Bo'glanish:**
+**Bo'glanish**
 - _Telegram_ orqali: https://t.me/azizbekJabborov006. 
 - _GitHub_ orqali: https://github.com/azizbekjb. 
 - _Linkedin_ orqali: https://www.linkedin.com/in/azizbek-jabborov.
@@ -18,12 +18,12 @@ Amaliy matematika yo'nalish, 3-bosqich talabasi.
   
 ***In English***
   
-**Briefly about myself:**
+**Briefly about myself**
 - _Education_: Sharof Rashidov Samarkand State University,
 3rd year student, Applied Mathematics.
 - _Interests_: I am studying Data Science and creating new projects based on the knowledge I have learned through the Streamlit framework. You can contact me for feedback, comments and cooperation.
 
-**Connect:**
+**Connect**
 - Via _Telegram_: https://t.me/azizbekJabborov006.
 - Via _GitHub_: https://github.com/azizbekjb.
 - Via _Linkedin_: https://www.linkedin.com/in/azizbek-jabborov.
