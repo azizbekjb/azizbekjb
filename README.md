@@ -1,4 +1,4 @@
-**Tuzuvchi haqida qisqacha:**
+**O'zim haqimda qisqacha:**
 - _Ta'lim dargohi_ : Sharof Rashidov nomidagi Samarqand davlat universiteti, 
 Amaliy matematika yo'nalish, 3-bosqich talabasi.
 - _Qiziqishlari_ : Telegram botlar yartish va Data science yo'nalishlarini o'rganmoqda
