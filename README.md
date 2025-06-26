@@ -1,3 +1,13 @@
--  Hi, I’m @azizbekjb
--  I'm learning Data Science and Streamlit now. I want to create AI models
-
+"Ushbu web ilova *Azizbek Alisherovich Jabborov* tomonidan yaratilgan.\n\n"
+        "**Tuzuvchi haqida qisqacha:**\n\n"
+        "- *:blue[Tug'ilgan sana]* : 2006-yil, 13-mart.\n"
+        "- *:blue[Tug'ilgan joy]* : Samarqand, O'zbekiston.\n"
+        "- *:blue[Ta'lim dargohi]* : Sharof Rashidov nomidagi Samarqand davlat universiteti, "
+        "Amaliy matematika yo'nalish, 3-bosqich talabasi.\n"
+        "- *:blue[Qiziqishlari]* : Telegram botlar yartish va Data science yo'nalishlarini o'rganmoqda.\n\n"
+        "Fikr yoki mulohaza, hamkorlik qilish va ilova kamchiliklari haqida xabar berish uchun bog'lanish mumkin. \n"
+        "**Bo'glanish:**\n"
+        "- *:blue[Telegram]* orqali: https://t.me/azizbekJabborov006. \n"
+        "- *:blue[GitHub]* orqali: https://github.com/azizbekjb. \n"
+        "- *:blue[Linkedin]* orqali: https://www.linkedin.com/in/azizbek-jabborov. \n\n"
+        "*:blue[Kelajakdagi rejalari]* : Sun'iy intelekt(AI) sohasida kuchli bilimlarga ega bo'lish va hayotdagi real muammolarga yechim berish"
