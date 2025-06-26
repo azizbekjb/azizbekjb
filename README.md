@@ -13,7 +13,8 @@ Amaliy matematika yo'nalish, 3-bosqich talabasi.
   
 **Kelajakdagi rejalarim**
 - _Maqsadim_: Sun'iy intelekt(AI) sohasida kuchli bilimlarga ega bo'lish va hayotdagi real muammolarga yechim berish
-- _Yangiliklar_: Yaqin kunlarda mening yangi loyihlarimni ko'rishingiz va ulardan foydalanish imkoniyatiga ega bo'lasiz. Bu loyihalar meni kelajakda kuchli Sun'iy intelekt mutaxasisi bo'lishimda yordam beradi. 
+- _Yangiliklar_: Yaqin kunlarda mening yangi loyihlarimni ko'rishingiz va ulardan foydalanish imkoniyatiga ega bo'lasiz. Bu loyihalar meni kelajakda kuchli Sun'iy intelekt mutaxasisi bo'lishimda yordam beradi.
+- 
 ***In English***
 **Briefly about myself:**
 - _Education_: Sharof Rashidov Samarkand State University,
