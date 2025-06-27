@@ -19,7 +19,7 @@ Amaliy matematika yo'nalish, 3-bosqich talabasi.
 ***In English***
   
 **Briefly about myself**
-- _Education_: Sharof Rashidov Samarkand State University,
+- _Education_: Samarkand State University named after Sharof Rashidov,
 3rd year student, Applied Mathematics.
 - _Interests_: I am studying Data Science and creating new projects based on the knowledge I have learned through the Streamlit framework. You can contact me for feedback, comments and cooperation.
 
