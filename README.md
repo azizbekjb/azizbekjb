@@ -13,8 +13,8 @@ Amaliy matematika yo'nalish, 3-bosqich talabasi.
 
   
 **Kelajakdagi rejalarim**
-- _Maqsadim_: Sun'iy intelekt(SI) sohasida kuchli bilimlarga ega bo'lish va hayotdagi real muammolarga yechim berish
-- _Yangiliklar_: Yaqin kunlarda mening yangi loyihlarimni ko'rishingiz va ulardan foydalanish imkoniyatiga ega bo'lasiz. Bu loyihalar meni kelajakda kuchli Sun'iy intelekt mutaxasisi bo'lishimda yordam beradi.
+- _Maqsadim_ : Sun'iy intelekt(SI) sohasida kuchli bilimlarga ega bo'lish va hayotdagi real muammolarga yechim berish
+- _Yangiliklar_ : Yaqin kunlarda mening yangi loyihlarimni ko'rishingiz va ulardan foydalanish imkoniyatiga ega bo'lasiz. Bu loyihalar meni kelajakda kuchli Sun'iy intelekt mutaxasisi bo'lishimda yordam beradi.
   
 ***In English***
   
@@ -29,5 +29,5 @@ Amaliy matematika yo'nalish, 3-bosqich talabasi.
 - Via _Linkedin_: https://www.linkedin.com/in/azizbek-jabborov.
 
 **My Future Plans**
-- _My Goal_: To gain strong knowledge in the field of Artificial Intelligence (AI) and solve real-life problems
-- _News_: In the coming days, you will have the opportunity to see and use my new projects. These projects will help me become a strong AI expert in the future.
+- _My Goal_ : To gain strong knowledge in the field of Artificial Intelligence (AI) and solve real-life problems
+- _News_ : In the coming days, you will have the opportunity to see and use my new projects. These projects will help me become a strong AI expert in the future.
