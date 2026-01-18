@@ -9,7 +9,7 @@ Amaliy matematika yo'nalish, 3-bosqich talabasi.
 **Bo'glanish**
 - _Telegram_ orqali: https://t.me/azizbekJabborov006. 
 - _GitHub_ orqali: https://github.com/azizbekjb. 
-- _Linkedin_ orqali: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B9dtpHV9OTiK25wSVkynfBg%3D%3D.
+- _Linkedin_ orqali: https://www.linkedin.com/in/azizbek-jabborov-244a61343/.
 
   
 **Kelajakdagi rejalarim**
@@ -26,7 +26,7 @@ Amaliy matematika yo'nalish, 3-bosqich talabasi.
 **Connect**
 - Via _Telegram_: https://t.me/azizbekJabborov006.
 - Via _GitHub_: https://github.com/azizbekjb.
-- Via _Linkedin_: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3B9dtpHV9OTiK25wSVkynfBg%3D%3D.
+- Via _Linkedin_: https://www.linkedin.com/in/azizbek-jabborov-244a61343/.
 
 **My Future Plans**
 - _My Goal_ : To gain strong knowledge in the field of Artificial Intelligence (AI) and solve real-life problems
