@@ -22,6 +22,7 @@ Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nali
 - **Mashinaviy O'qitish**: scikit-learn (O'rta daraja)
 - **LLM va AI**: Langchain, Langgraph (O'rta daraja)
 - **Web Frameworks**: FastAPI, Django (Boshlang'ich)
+- **Ma'lumotlar Bazasi**: MySQL (O'rta-Yuqori)
 - **Boshqa**: Regex, JSON (O'rta-Yuqori), BeautifulSoup, requests (Boshlang'ich)
 
 ### Terminal va Versiya Kontroli
