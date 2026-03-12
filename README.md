@@ -1,74 +1,39 @@
 # Assalomu alaykum
 
-Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nalish 3 - bosqich talabasiman. 
+Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nalish 3 - bosqich talabasiman.
 
-Men Mashinaviy o'qitish va Katta Til Modellari bilan ishlashni o'rganmoqdan.
+## 👤 **Shaxsiy Ma'lumot**
+- **Ism**: Azizbek Jabborov
+- **Ta'lim**: Samarqand Davlat Universiteti, Amaliy Matematika, 3-bosqich talabasi
+- **Qiziqishlari**: Machine Learning va Large Language Models (LLM)
 
-## Men ishlay olaman
+## 💻 **Texnik Ko'nikmalari**
 
-### Dasturlash tillari bilan
+### Dasturlash Tillari
+| Til | Daraja |
+|-----|--------|
+| **Python** | Yuqori ⭐⭐⭐ |
+| **C++** | Yuqori ⭐⭐⭐ |
+| **HTML** | Boshlang'ich ⭐ |
 
-| Til    | Daraja |
-|--------|--------|
-|Python  | Yuqori |
-| C++    | Yuqori |
-| HTML   | Boshlang'ich |
+### Framework/Kutubxonalar
+- **Data Science**: NumPy, Pandas (Yuqori daraja)
+- **Vizualizatsiya**: Matplotlib (O'rta daraja)
+- **Mashinaviy O'qitish**: scikit-learn (O'rta daraja)
+- **LLM va AI**: Langchain, Langgraph (O'rta daraja)
+- **Web Frameworks**: FastAPI, Django (Boshlang'ich)
+- **Boshqa**: Regex, JSON (O'rta-Yuqori), BeautifulSoup, requests (Boshlang'ich)
 
-### Framework/Modullar bilan
+### Terminal va Versiya Kontroli
+- **Linux**: O'rta daraja
+- **Git**: O'rta daraja
 
-| Framework | Daraja |
-|--------|--------|
-|Numpy  | Yuqori |
-| Pandas    | Yuqori |
-| Matplotlib| O'rta |
-| sklearn | O'rta |
-| request | Boshlang'ich |
-| bs4 | Boshlang'ich |
-|FastAPI | Boshlang'ich |
-|Django | Boshlang'ich |
-| regex | O'rta |
-| JSON | Yuqori |
-|Langchain | O'rta |
-|Langgraph | O'rta |
+## 📞 **Bog'lanish Manzillari**
+- 🔵 **Telegram**: https://t.me/azizbekJabborov006
+- 🐙 **GitHub**: https://github.com/azizbekjb
+- 💼 **LinkedIn**: https://www.linkedin.com/in/azizbek-jabborov-244a61343/
 
-### Terminallar bilan
-
-| Terminal | Daraja |
-|--------|--------|
-|Linux | O'rta |
-|Git | O'rta |
-
-
-***O'zbekcha***
-
-**O'zim haqimda qisqacha**
-- _Ta'lim dargohim_ : Sharof Rashidov nomidagi Samarqand davlat universiteti, 
-Amaliy matematika yo'nalish, 3-bosqich talabasi.
-- _Qiziqishlarim_ : Data science yo'nalishini o'rganmoqdaman hamda Streamlit frameworki orqali o'rgangan bilimlari asosida yangi loyihalar yaratmoqdaman. Fikr, mulohaza va hamkorlik qilish uchun bog'lanish mumkin.
-
-
-**Bo'glanish**
-- _Telegram_ orqali: https://t.me/azizbekJabborov006. 
-- _GitHub_ orqali: https://github.com/azizbekjb. 
-- _Linkedin_ orqali: https://www.linkedin.com/in/azizbek-jabborov-244a61343/.
-
-  
-**Kelajakdagi rejalarim**
-- _Maqsadim_ : Sun'iy intelekt(SI) sohasida kuchli bilimlarga ega bo'lish va hayotdagi real muammolarga yechim berish
-- _Yangiliklar_ : Yaqin kunlarda mening yangi loyihlarimni ko'rishingiz va ulardan foydalanish imkoniyatiga ega bo'lasiz. Bu loyihalar meni kelajakda kuchli Sun'iy intelekt mutaxasisi bo'lishimda yordam beradi.
-  
-***In English***
-  
-**Briefly about myself**
-- _Education_: Samarkand State University named after Sharof Rashidov,
-3rd year student, Applied Mathematics.
-- _Interests_: I am studying Data Science and creating new projects based on the knowledge I have learned through the Streamlit framework. You can contact me for feedback, comments and cooperation.
-
-**Connect**
-- Via _Telegram_: https://t.me/azizbekJabborov006.
-- Via _GitHub_: https://github.com/azizbekjb.
-- Via _Linkedin_: https://www.linkedin.com/in/azizbek-jabborov-244a61343/.
-
-**My Future Plans**
-- _My Goal_ : To gain strong knowledge in the field of Artificial Intelligence (AI) and solve real-life problems
-- _News_ : In the coming days, you will have the opportunity to see and use my new projects. These projects will help me become a strong AI expert in the future.
+## 🎯 **Kelajak Maqsadi**
+- Sun'iy intelekt (AI) sohasida chuqur bilim va ko'nikma ega bo'lish
+- Haqiqiy hayotning muammolariga AI orqali yechim topish
+- Shaxsiy tajribamni kuchli loyihalar bilan boyitish
