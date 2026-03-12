@@ -30,7 +30,7 @@ Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nali
 
 ## Hozirgacha bajargan, bajarayotgan va kelajakda bajaradigan ishlarim
 - Data Analysis(Ma'lumotlar tahlili) sohasini o'rgandim
-- [lex.uz](lex.uz) saytidan API olib LLM modeli asosida RAG bot yaratdim
+- [lex.uz](https://lex.uz/uz) saytidan API olib LLM modeli asosida RAG bot yaratdim
 - Moliyaviy ma'lumotlar ustida ishlab ajoyib hisobot(dashboard)lar yaratdim
 - Hozirda Machine Learning va LLM modellar bilan ishlashni o'rganmoqdaman
 - Keyinchalik Deep Learning, Computer Vision va NLP sohalarni o'rganmoqchiman
