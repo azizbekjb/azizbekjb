@@ -28,6 +28,14 @@ Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nali
 - **Linux**: O'rta daraja
 - **Git**: O'rta daraja
 
+## Hozirgacha bajargan, bajarayotgan va kelajakda bajaradigan ishlarim
+- Data Analysis(Ma'lumotlar tahlili) sohasini o'rgandim
+- [lex.uz](lex.uz) saytidan API olib LLM modeli asosida RAG bot yaratdim
+- Moliyaviy ma'lumotlar ustida ishlab ajoyib hisobot(dashboard)lar yaratdim
+- Hozirda Machine Learning va LLM modellar bilan ishlashni o'rganmoqdaman
+- Keyinchalik Deep Learning, Computer Vision va NLP sohalarni o'rganmoqchiman
+Bularning barchasi mening **private** repolarimda.
+  
 ## 📞 **Bog'lanish Manzillari**
 - 🔵 **Telegram**: https://t.me/azizbekJabborov006
 - 🐙 **GitHub**: https://github.com/azizbekjb
@@ -37,3 +45,4 @@ Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nali
 - Sun'iy intelekt (AI) sohasida chuqur bilim va ko'nikma ega bo'lish
 - Haqiqiy hayotning muammolariga AI orqali yechim topish
 - Shaxsiy tajribamni kuchli loyihalar bilan boyitish
+- Shaxsiy bilim va tajribam asosida bir vazifani bajaruvchi Sun'iy Intelekt modelini yaratish
