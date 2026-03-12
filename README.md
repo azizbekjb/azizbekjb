@@ -34,6 +34,7 @@ Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nali
 - Moliyaviy ma'lumotlar ustida ishlab ajoyib hisobot(dashboard)lar yaratdim
 - Hozirda Machine Learning va LLM modellar bilan ishlashni o'rganmoqdaman
 - Keyinchalik Deep Learning, Computer Vision va NLP sohalarni o'rganmoqchiman
+  
 Bularning barchasi mening **private** repolarimda.
   
 ## 📞 **Bog'lanish Manzillari**
