@@ -1,3 +1,43 @@
+# Assalomu alaykum
+
+Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nalish 3 - bosqich talabasiman. 
+
+Men Mashinaviy o'qitish va Katta Til modellarrini ishlash tartibini o'rganmoqdan.
+
+## Men ishlay olaman
+
+### Dasturlash tillari bilan
+
+| Til    | Daraja |
+|--------|--------|
+|Python  | Yuqori |
+| C++    | Yuqori |
+| HTML   | Boshlang'ich |
+
+### Framework/Modullar bilan
+
+| Framework | Daraja |
+|--------|--------|
+|Numpy  | Yuqori |
+| Pandas    | Yuqori |
+| Matplotlib| O'rta |
+| sklearn | O'rta |
+| request | Boshlang'ich |
+| bs4 | Boshlang'ich |
+|FastAPI | Boshlang'ich |
+|Django | Boshlang'ich |
+| regex | O'rta |
+| JSON | Yuqori |
+|Langchain | O'rta |
+|Langgraph | O'rta |
+
+### Terminallar bilan
+
+| Terminal | Daraja |
+|--------|--------|
+|Linux | O'rta |
+|Git | O'rta |
+
 ***O'zbekcha***
 
 **O'zim haqimda qisqacha**
