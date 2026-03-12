@@ -1,4 +1,4 @@
-# Assalomu alaykum
+# Assalomu Alaykum
 
 Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nalish 3 - bosqich talabasiman.
 
