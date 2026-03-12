@@ -2,7 +2,7 @@
 
 Men **Azizbek Jabborov** Samarqand Davlat Universiteti Amaliy matematika yo'nalish 3 - bosqich talabasiman. 
 
-Men Mashinaviy o'qitish va Katta Til modellarrini ishlash tartibini o'rganmoqdan.
+Men Mashinaviy o'qitish va Katta Til Modellari bilan ishlashni o'rganmoqdan.
 
 ## Men ishlay olaman
 
@@ -37,6 +37,7 @@ Men Mashinaviy o'qitish va Katta Til modellarrini ishlash tartibini o'rganmoqdan
 |--------|--------|
 |Linux | O'rta |
 |Git | O'rta |
+
 
 ***O'zbekcha***
 
